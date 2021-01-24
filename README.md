@@ -3,4 +3,8 @@
  
  In this repo, I try to deploy the flask web app to Heroku server
  
- reference: https://github.com/jakerieger/FlaskIntroduction
+ reference: 
+ 
+ https://github.com/jakerieger/FlaskIntroduction
+ 
+ https://www.youtube.com/watch?v=Z1RJmh_OqeA
