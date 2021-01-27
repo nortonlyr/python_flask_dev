@@ -1,5 +1,5 @@
 # python_flask_deployment
- ### Practice for deployment
+ ### Practice for Heroku server deployment
  
  In this repo, I try to deploy the flask web app to Heroku server: https://python-flask-dev-2.herokuapp.com/
  
